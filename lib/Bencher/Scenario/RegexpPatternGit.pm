@@ -8,7 +8,7 @@ use strict;
 use warnings;
 
 our $scenario = {
-    summary => 'Benchmark Regexp::Pattern::Git',
+    summary => 'Benchmark patterns in Regexp::Pattern::Git',
     modules => {
         # minimum versions
         #'Foo' => {version=>'0.31'},
